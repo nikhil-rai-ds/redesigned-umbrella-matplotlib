@@ -1,0 +1,10 @@
+repos:
+  - repo: local
+    hooks:
+      - id: clear-jupyter-output
+        name: Clear Jupyter Notebook Output
+        entry: python clear_outputs.py
+        language: system
+        files: \.ipynb$
+        pass_filenames: false
+        args: []
