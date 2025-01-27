@@ -6,5 +6,4 @@ repos:
         entry: python clear_outputs.py
         language: system
         files: \.ipynb$
-        pass_filenames: false
-        args: []
+        pass_filenames: true
