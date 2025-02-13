@@ -1,0 +1,24 @@
+You can refer to the links provided below to learn more about visualisation:
+
+You can go to this link from Gramener to know how data visualisation can help you derive insights about the winning political parties in India.
+https://gramener.com/posters/Winning-Parties.pdf
+
+You can view this link from SocialCops to see a creative visualisation on the ageing world population.
+https://blog.socialcops.com/open-data/aging-population
+
+You can refer to this link to learn how to choose a graph plot for your data.
+
+https://blog.hubspot.com/marketing/data-visualization-choosing-chart#sm.000vodl7ch6rf7e112a2q13r9cno0
+
+
+You can refer to this link  to find additional video tutorials by Corey Shaffer on Matplotlib
+https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+
+You can refer to this link to find official Matplotlib Documentation
+https://matplotlib.org/3.2.1/tutorials/index.html
+
+You can learn more about choosing the right plot type by referring to this link.  
+https://chartio.com/learn/charts/how-to-choose-data-visualization/
+
+You can refer to this link to find out additional information about plotting real-time data. 
+https://www.youtube.com/watch?v=Ercd-Ip5PfQ
